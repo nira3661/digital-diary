@@ -1,0 +1,5 @@
+2026-05-08|Exercise|Done
+2026-05-08|Read|Done
+2026-05-08|Meditate|NotDone
+2026-05-09|Exercise|Done
+2026-05-09|Read|Done
